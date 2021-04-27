@@ -1,2 +1,4 @@
-# AgriSensi.github.io-
-AgriSensi Landing Page. 
+# Agri Sense
+
+Renovating Agriculture
+ 
