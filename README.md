@@ -1,4 +1,4 @@
-# Agri Sense
+# Agri Sensi
 
 Renovating Agriculture
  
